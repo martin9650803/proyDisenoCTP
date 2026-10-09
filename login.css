@@ -1,15 +1,15 @@
 /* RESET BÁSICO */
 * {
-    margin: 0;
-    padding: 0;
+    margin: 3px;
+    padding: 3px;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* 1. COLOR DE FONDO OSCURO Y CENTRADO */
 body {
-    background-color: #0b0f19;
-    background-image: radial-gradient(circle at center, #1a233a 0%, #0b0f19 100%);
+    background-color: #08db19;
+    background-image: radial-gradient(circle at center, #adbce2 0%, #1549ce 100%);
     min-height: 100vh;
     display: flex;
     justify-content: center;
